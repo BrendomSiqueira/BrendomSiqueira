@@ -34,7 +34,8 @@ Apaixonado por tecnologia, automação e desenvolvimento de sistemas que geram r
 
 ### 📂 Casa Sandríssima
 Sistema desenvolvido para uma ONG, com gestão de alunos e voluntários.
-🔗 https://github.com/BrendomSiqueira/CasaSandrissima-Ong
+🔗 Repositório: https://github.com/BrendomSiqueira/CasaSandrissima-Ong
+🔗 Demo: https://casa-sandrissima.vercel.app/
 
 ### 📂 Consulta de Grupo e Cotas — Âncora Consórcios
 Sistema com visibilidade de processos direcionados, acompanhamento de produtividade no envio de e-mails e cálculo do valor estimado de garantia a partir do chassi do veículo.
