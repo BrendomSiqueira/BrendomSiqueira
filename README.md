@@ -48,13 +48,13 @@ Sistema desenvolvido para uma ONG, com gestão de alunos e voluntários.
 🔗 Demo: https://casa-sandrissima.vercel.app/
 
 ### 💈 Sistema de Gestão para Barbearia
-
 Aplicação desenvolvida para otimizar o fluxo operacional e o atendimento de barbearias, centralizando agendamentos, serviços e controle de clientes em uma única plataforma intuitiva.
 
 - **Agendamento Inteligente:** Marcação de horários com seleção de profissional e serviço.
 - **Gestão de Serviços & Comissões:** Cadastro de serviços (corte, barba, combos), valores e repasses.
 - **Controle de Clientes:** Histórico de visitas, preferências e fidelização.
-- **Painel Administrativo:** Visão geral da agenda diária, status dos atendimentos e métricas básicas de fluxo.
+- **Painel Administrativo:** Visão geral da agenda diária, status dos atendimentos e métricas básicas de fluxo. 
+🔗 Repositório: https://github.com/BrendomSiqueira/Gest-oBarbearias
 
 **Tecnologias utilizadas:** `Java` | `Spring Boot` | `MySQL` | `HTML/CSS/JavaScript` (ou as tecnologias do seu stack)
 <!--
