@@ -1,4 +1,4 @@
-# Olá, eu sou o Brendom Siqueira 👋
+Brendom Siqueira 
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack em formação
 
