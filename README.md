@@ -1,3 +1,9 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Brendom+Siqueira;Estudante+de+ADS+na+FATEC+Franca;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+automa%C3%A7%C3%A3o)
+
+</div>
+
 # Brendom Siqueira 
 ### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack em formação
 Apaixonado por tecnologia, automação e desenvolvimento de sistemas que geram resultados reais.
@@ -22,6 +28,22 @@ Apaixonado por tecnologia, automação e desenvolvimento de sistemas que geram r
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrendomSiqueira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendomSiqueira&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=BrendomSiqueira&theme=tokyonight)
+
+## 🏆 Troféus
+![Trophies](https://github-profile-trophy.vercel.app/?username=BrendomSiqueira&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## 🐍 Atividade de contribuições
+<!--START_SECTION:snake-->
+<!-- Este bloco é preenchido automaticamente pelo workflow do GitHub Actions após o primeiro commit -->
+<!--END_SECTION:snake-->
+
+---
+
+## 📜 Certificados e cursos
+- 🗄️ Banco de Dados — SENAI
+- 💻 18ª TechWeek — FATEC Franca
 
 ---
 
@@ -51,4 +73,10 @@ Adicione aqui outros projetos assim que criar os repositórios no GitHub:
 
 ---
 
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=BrendomSiqueira&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=61DAFB&style=flat)
+
 ⭐ Sempre buscando aprender, evoluir e criar soluções que façam a diferença.
+
+</div>
