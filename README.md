@@ -47,10 +47,16 @@ Sistema desenvolvido para uma ONG, com gestão de alunos e voluntários.
 🔗 Repositório: https://github.com/BrendomSiqueira/CasaSandrissima-Ong
 🔗 Demo: https://casa-sandrissima.vercel.app/
 
-### 📂 Consulta de Grupo e Cotas — Âncora Consórcios
-Sistema com visibilidade de processos direcionados, acompanhamento de produtividade no envio de e-mails e cálculo do valor estimado de garantia a partir do chassi do veículo.
-🔗 https://consulta-de-grupo-e-cotas.vercel.app
+### 💈 Sistema de Gestão para Barbearia
 
+Aplicação desenvolvida para otimizar o fluxo operacional e o atendimento de barbearias, centralizando agendamentos, serviços e controle de clientes em uma única plataforma intuitiva.
+
+- **Agendamento Inteligente:** Marcação de horários com seleção de profissional e serviço.
+- **Gestão de Serviços & Comissões:** Cadastro de serviços (corte, barba, combos), valores e repasses.
+- **Controle de Clientes:** Histórico de visitas, preferências e fidelização.
+- **Painel Administrativo:** Visão geral da agenda diária, status dos atendimentos e métricas básicas de fluxo.
+
+**Tecnologias utilizadas:** `Java` | `Spring Boot` | `MySQL` | `HTML/CSS/JavaScript` (ou as tecnologias do seu stack)
 <!--
 Adicione aqui outros projetos assim que criar os repositórios no GitHub:
 - Barbershop Management System
