@@ -29,21 +29,14 @@ Apaixonado por tecnologia, automação e desenvolvimento de sistemas que geram r
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendomSiqueira&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=BrendomSiqueira&theme=tokyonight)
 
-## 🏆 Troféus
-![Trophies](https://github-profile-trophy.vercel.app/?username=BrendomSiqueira&theme=tokyonight&no-frame=true&row=1&column=6)
-
 ---
 
-## 🐍 Atividade de contribuições
-<!--START_SECTION:snake-->
-<!-- Este bloco é preenchido automaticamente pelo workflow do GitHub Actions após o primeiro commit -->
-<!--END_SECTION:snake-->
-
----
-
-## 📜 Certificados e cursos
-- 🗄️ Banco de Dados — SENAI
-- 💻 18ª TechWeek — FATEC Franca
+## 📜 Formações técnicas
+- 🗄️ Técnico em Banco de Dados
+- 💻 Técnico em Informática
+- 📣 Técnico em Marketing
+- 📋 Técnico em Administração
+- 🎓 Análise e Desenvolvimento de Sistemas (ADS) — em formação, FATEC Franca
 
 ---
 
